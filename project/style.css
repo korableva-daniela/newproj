@@ -1727,10 +1727,7 @@ footer p {
   .row-flex{ 
   margin-bottom: 10px; 
   } 
-  nav {
-    visibility: hidden;
-    display: none;
-    }
+  
  
  @media (min-width: 768px) {}
   .block-form-contacts{
