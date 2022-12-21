@@ -16,6 +16,7 @@ header{
   margin: 0;
   padding: 0;
   width: auto;
+    padding-bottom: 400px;
 }
 .container1{
   padding-left: 0;
@@ -133,7 +134,7 @@ ul li:hover .sub {
 .block-main-btn {
   display: inline-block;
   font-weight: 500;
-  font-size: 25px;
+  font-size: 20px;
   text-transform: uppercase;
   line-height: 1;
   color: #fff;
