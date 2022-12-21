@@ -36,13 +36,13 @@ header{
 p{
   font-family: "Montserrat";
   color: rgba(255,255,255,.8);
-  font-size: 14px;
+  font-size: 20px;
 }
 h1 {
   font-family: "Montserrat";
   color: white;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 32px;
   line-height: 1.2;
 }
 .arrow{
@@ -113,7 +113,7 @@ a {
   text-decoration: none;
   outline: none;
   font-family: "Montserrat";
-  font-size: 12px;
+  font-size: 17px;
 }
 #imgHeader{
   float:left;
@@ -133,7 +133,7 @@ ul li:hover .sub {
 .block-main-btn {
   display: inline-block;
   font-weight: 500;
-  font-size: 12px;
+  font-size: 17px;
   text-transform: uppercase;
   line-height: 1;
   color: #fff;
@@ -179,7 +179,7 @@ a:hover {
 
 .support-achievement-description {
   font-weight: 500;
-  font-size: 12px;
+  font-size: 17px;
   line-height: 1.25;
   color: rgba(255,255,255,.7);
 }
@@ -187,7 +187,7 @@ a:hover {
   font-size: 48px;
 }
 .support-achievement-title {
-  font-size: 24px;
+  font-size: 32px;
   color: #fff;
   font-weight: bold;
   line-height: 1;
@@ -195,7 +195,7 @@ a:hover {
   position: relative;
 }
 .support-achievement-title2 {
-  font-size: 48px;
+  font-size: 54px;
   color: #fff;
   font-weight: bold;
   line-height: 1;
@@ -208,7 +208,7 @@ a:hover {
 h2 {
   font-family: "Montserrat";
   font-weight: bold;
-  font-size: 36px;
+  font-size: 45px;
   color: #050c33;
   margin: 0 0 20px;
 }
@@ -700,7 +700,7 @@ footer p {
   display: inline;
 }
 .form-control:focus {
-  color: #212529;
+  color: f2f4f7f3;
   background-color: transparent;
   border-color: #f14d34;
   outline: 0;
