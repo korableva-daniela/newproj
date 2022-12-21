@@ -1792,4 +1792,49 @@ footer p {
     font-style: normal;
     font-weight:normal;
 }
+@media (max-width: 991px){
+.tarrif-body-item, .tariff-body-item {
+    font-size: 14px;
+}
+}
+@media (max-width: 991px){
+.tariff-price {
+    font-size: 56px;
+}
+}
+@media (max-width: 991px){
+.tariff-price.small {
+    font-size: 38px;
+}
+}
+@media (min-width: 768px){
+  .tariffs-row .col-sm-4 {
+    width: 33.33333333%;
+    float: left;
+}
+}
+@media (max-width: 1080px){
+  #block-tariffs .block-title{
+    font-size: 36px;
+  }
+}
+@media (max-width: 991px){
+  #block-tariffs .block-title{
+    font-size: 32px;
+  }
+}
+@media (max-width: 991px){
+.tariff {
+    padding: 35px 20px;
+    margin-left: 0;
+    margin-right: 0;
+}
+}
+@media (min-width:350px ) {
+  .tariff:hover{
+  transform: scale(1.1);
+  z-index: 10;
+  box-shadow: 0 4px 60px rgb(162 162 162 / 25%);
+  transition:all 3s;
+}
 
